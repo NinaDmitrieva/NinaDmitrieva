@@ -1,4 +1,8 @@
 ### Привет!
+ 
+##### Люблю эстетику и минимализм,
+##### В настоящее время я изучаю TypeScript
+
 
 ## My skills:
 
@@ -10,5 +14,6 @@
 * MongoDB
 * Git
 
-
+## Contacts:
+telegram@nina_dmitrieva_2
 

@@ -15,5 +15,5 @@
 * Git
 
 ## Contacts:
-[Telegram](https://t.me/nina_dmitrieva_2)
-nina.dmitrieva.spb@yandex.ru
+* [Telegram](https://t.me/nina_dmitrieva_2) 
+* nina.dmitrieva.spb@yandex.ru

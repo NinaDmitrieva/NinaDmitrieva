@@ -3,6 +3,7 @@
 
 * HTML
 * CSS
+* SASS/SCSS
 * JS
 * React.js
 * Node.js (Express)
